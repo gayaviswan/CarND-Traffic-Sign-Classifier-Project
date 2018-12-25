@@ -190,6 +190,6 @@ For the fifth image, the model concludes that it is General Caution (probability
 
 The below images feature map is visualized for speed limit sign of 30 km/h. The first layer seems to have picked up the round sign while the second layer seems to have picked up the number 30. This visualization allows us to determine how each layer is detecting the feature that are important.
 
-![Visualizing Feature Map Conv1](./feature_map0.png)
-![Visualization Feature Mao Cobv2](./feature_map1.png)
+![Visualizing Feature Map Conv1](./featuremap0.png)
+![Visualization Feature Map Conv2](./featuremap1.png)
 
